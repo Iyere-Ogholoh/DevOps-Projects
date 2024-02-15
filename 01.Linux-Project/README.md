@@ -6,3 +6,4 @@ The sudo command is used as follows `sudo apt update`
 
 ![sudo](./img/sudo.png)
 
+`sudo apt upgrade`
